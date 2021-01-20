@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SPPO_04_Python", "SPPO_04_Python\SPPO_04_Python.pyproj", "{DFA9B33A-2A8D-4D26-90B0-AB013767DE8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA9B33A-2A8D-4D26-90B0-AB013767DE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA9B33A-2A8D-4D26-90B0-AB013767DE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A319B08C-2311-4E4A-847A-E388C44A1C52}
+	EndGlobalSection
+EndGlobal
